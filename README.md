@@ -1,5 +1,7 @@
 # testJDI
 
+All of the demos in codepen.io, you can add more variable as input, and follow the code to print the result as output.
+
 ### 1. q4_1:
   - Use this link to see [Check valid sudoku](https://codepen.io/vinhon/pen/BajVYEP)
   - Input is matrix array, it's row and column in sudoku board
